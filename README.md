@@ -88,7 +88,7 @@ Generates structured, SEO-friendly blog posts from a topic using an LLM pipeline
 
 `Python` `LangChain` `Gemini` `Jupyter`
 
-🔗 [View Repository](https://github.com/sumitpatil27/YOUR_REPO)
+🔗 [View Repository](https://github.com/sumitpatil27/AI-Blog-Generator)
 
 </td>
     <td width="50%" valign="top">
@@ -110,7 +110,7 @@ Real-time face detection and recognition using deep-learning embeddings.
 
 `OpenCV` `InsightFace` `Python`
 
-🔗 [View Repository](https://github.com/sumitpatil27/YOUR_REPO)
+🔗 [View Repository](https://github.com/sumitpatil27/FaceDetection)
 
 </td>
     <td width="50%" valign="top">
