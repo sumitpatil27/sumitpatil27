@@ -98,7 +98,7 @@ A web app that analyses user symptoms with ML models and gives quick health insi
 
 `Flask` `scikit-learn` `Python`
 
-🔗 [View Repository](https://github.com/sumitpatil27/YOUR_REPO)
+🔗 [View Repository](https://github.com/sumitpatil27/AI-Healthcare-Assistant)
 
 </td>
   </tr>
